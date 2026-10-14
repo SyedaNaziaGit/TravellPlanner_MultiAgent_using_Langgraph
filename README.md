@@ -12,14 +12,6 @@ Tell Journey Buddy where you want to go, and a team of specialised AI agents wor
 
 Planning a trip usually means bouncing between flight sites, hotel listings, weather apps, and travel blogs. **AI Journey Buddy** brings that into one place: a LangGraph-powered multi-agent backend splits a travel request into focused tasks, each handled by an agent with its own tools, and the results are merged into a single structured plan that the Streamlit frontend presents.
 
-## Screenshots
-
-<!-- Add your screenshots to a `screenshots/` folder in the repo and update the paths below. -->
-
-| Home | Search | Results |
-|---|---|---|
-| ![Home](screenshots/home.png) | ![Search](screenshots/search.png) | ![Results](screenshots/results.png) |
-
 ## Features
 
 - **Multi-agent planning** with LangGraph, where each agent owns one part of the trip
